@@ -1,0 +1,7 @@
+/*filling colors for the countries*/
+#geomap .districts {
+    fill: #8a1f1f;
+  /*black border to the countries*/
+    stroke: black;
+    stroke-opacity: 0.5;
+}
