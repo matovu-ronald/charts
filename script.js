@@ -287,7 +287,7 @@ function barChart(data, selector) {
           .attr("y", 10)
           .attr("fill", "currentColor")
           .attr("text-anchor", "start")
-          .text("↑ Electrical Conductivity (µs/cm)")
+          .text("↑ Sulphate")
       );
   }
 
